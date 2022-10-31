@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ana Mizumskaya (:computer::heart:)
+![](https://komarev.com/ghpvc/?username=stayrony)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mizumskaya)
 
 <!--
 **Stayrony/stayrony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Xamarin+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Xamarin+Software+Engineer;Tech+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
